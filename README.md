@@ -1,7 +1,7 @@
 ## Hi, I'm Jenny!
 
-- 😄 Studied Sociology with an emphasis on Science and Technology, worked as a Product Manger, now earning a Certificate in Bioinformatics from UC San Diego Extensions<br/>
-- 🔭 I’m currently working on the TidyTuesday, projects in R and python.
+- 😄 BA in Sociology (Science & Technology focus) → 10 years as a Product Manager → now pivoting into Bioinformatics<br/>
+- 🔭 I’m currently working on TidyTuesday explorations + building tools in R and Python (bioinformatics, data science, and AI)
 - 🌱 #learninginpublic in my [digital garden](https://yuummmer.github.io/)
 - ⚡ Fun fact: I'm an artist. Check out my glass work [Mahaila Glass](https://mahailaglass.squarespace.com/)!<br/>
 
