@@ -7,8 +7,7 @@ Open to bioinformatics-oriented PM roles, data stewardship, or short consulting 
 
 ## Hi, I'm Jenny!
 
-Product leader turned bioinformatics builder.  
-BA in Sociology (Science & Tech) → 10 yrs Product Management (enterprise SaaS, integrations) → now shipping open-source tools for data quality, FAIR workflows, and reproducible science.
+10 yrs Product Management (enterprise SaaS, integrations) → now shipping open-source tools for data quality, FAIR workflows, and reproducible science.
 
 - 🔬 **Now:** Building **FAIRy** — a local-first validator/packager for research datasets (Python/R).  
 - 📊 **Also:** Weekly **TidyTuesday** explorations + small R/Python tools.
